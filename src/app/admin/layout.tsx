@@ -1,7 +1,6 @@
 import { Metadata } from "next";
-import AdminSidebar from "@/components/admin/sideBar";
-import { authOptions } from "@/lib/authOptions";
 
+import AdminSidebar from "@/components/admin/sideBar";
 
 export const metadata: Metadata = {
   title: "Admin",
